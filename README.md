@@ -79,7 +79,8 @@ The Fabric pipeline executes the notebooks in sequence:
         v
 04_run_data_quality_checks
 ```
-<img width="2088" height="1088" alt="image" src="https://github.com/user-attachments/assets/ef685db6-0d5a-4801-b873-eaed2b94a0a8" />
+<img width="2068" height="516" alt="image" src="https://github.com/user-attachments/assets/5da08ea8-d64d-4f1d-91e3-1d30f99ab1ff" />
+
 
 ---
 

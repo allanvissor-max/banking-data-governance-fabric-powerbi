@@ -1,0 +1,106 @@
+crm_entity_id,company_name,registry_code,country_code,customer_segment,relationship_manager,crm_status,created_date
+CRM0001,Baltic Nordic OÜ,EE10000001,EE,Mid-Market,Tomas Petrauskas,Active,2021-05-04
+CRM0002,Nova Amber SIA,LV10000002,LV,Mid-Market,Juris Ozols,Active,2020-06-07
+CRM0003,Baltic Vega UAB,LT10000003,LT,Large Corporate,Liis Kask,Active,2021-04-25
+CRM0004,Nova Nova OÜ,EE10000004,EE,Mid-Market,Liis Kask,Active,2021-10-16
+CRM0005,Nova Vega SIA,LV10000005,LV,Large Corporate,Anna Saar,Active,2020-10-10
+CRM0006,Harbor Nordic UAB,,LT,SME,Markus Tamm,Active,2022-02-23
+CRM0007,VEGA ATLAS OU,EE10000007,EE,Large Corporate,Markus Tamm,Active,2023-12-17
+CRM0008,Atlas Baltic SIA,LV10000008,LV,SME,Anna Saar,Active,2022-04-29
+CRM0009,Atlas Atlas UAB,LT10000009,LT,Mid-Market,Liis Kask,Active,2023-01-16
+CRM0010,Meridian Baltic OÜ,EE10000010,EE,Mid-Market,Juris Ozols,Inactive,2020-05-07
+CRM0011,Baltic Harbor SIA,LV10000011,LV,SME,Juris Ozols,Active,2022-03-08
+CRM0012,Atlas Nova UAB,LT10000012,LT,Large Corporate,Tomas Petrauskas,Active,2020-02-10
+CRM0013,Nova Harbor OÜ,EE10000013,EE,Large Corporate,Juris Ozols,Inactive,2022-09-03
+CRM0014,BALTIC VEGA SIA,LV10000014,LV,SME,Liis Kask,Active,2021-09-03
+CRM0015,Atlas Amber UAB,LT10000015,LT,Mid-Market,Juris Ozols,Active,2023-01-07
+CRM0016,Harbor Baltic OÜ,EE10000016,EE,Large Corporate,Tomas Petrauskas,Active,2023-01-23
+CRM0017,Nova Amber SIA,LV10000017,LV,Large Corporate,Markus Tamm,Active,2022-09-26
+CRM0018,Nova Atlas UAB,LT10000018,LT,SME,Liis Kask,Active,2022-06-11
+CRM0019,Nordic Nova OÜ,EE10000019,EE,Mid-Market,Anna Saar,Active,2022-03-07
+CRM0020,Vega Harbor SIA,LV10000020,LV,Mid-Market,Tomas Petrauskas,Active,2023-10-22
+CRM0021,ATLAS NOVA UAB,LT10000021,LT,Mid-Market,Tomas Petrauskas,Active,2020-12-04
+CRM0022,Meridian Amber OÜ,EE10000022,EE,Mid-Market,Markus Tamm,Active,2023-06-28
+CRM0023,Harbor Vega SIA,,LV,Large Corporate,Anna Saar,Inactive,2025-01-31
+CRM0024,Nova Amber UAB,LT10000024,LT,Mid-Market,Ieva Berzina,Active,2023-03-01
+CRM0025,Nordic Baltic OÜ,EE10000025,EE,Large Corporate,Anna Saar,Active,2020-06-20
+CRM0026,Vega Baltic SIA,LV10000026,LV,Large Corporate,Juris Ozols,Active,2020-10-04
+CRM0027,Meridian Harbor UAB,LT10000027,LT,Mid-Market,Markus Tamm,Inactive,2020-04-12
+CRM0028,BALTIC HARBOR OU,EE10000028,EE,Mid-Market,Juris Ozols,Active,2021-11-01
+CRM0029,Baltic Harbor SIA,LV10000029,LV,SME,Juris Ozols,Active,2021-10-31
+CRM0030,Nordic Harbor UAB,LT10000030,LT,Mid-Market,Juris Ozols,Inactive,2021-07-23
+CRM0031,Amber Baltic OÜ,EE10000031,EE,Mid-Market,Liis Kask,Active,2024-09-05
+CRM0032,Nova Amber SIA,LV10000032,LV,SME,Juris Ozols,Active,2020-02-09
+CRM0033,Nordic Atlas UAB,LT10000033,LT,Large Corporate,Ieva Berzina,Active,2020-04-16
+CRM0034,Atlas Harbor OÜ,EE10000034,EE,Mid-Market,Markus Tamm,Active,2023-08-24
+CRM0035,BALTIC BALTIC SIA,LV10000035,LV,SME,Tomas Petrauskas,Active,2020-03-23
+CRM0036,Amber Amber UAB,LT10000036,LT,SME,Markus Tamm,Active,2021-02-12
+CRM0037,Amber Harbor OÜ,EE10000037,EE,SME,Ieva Berzina,Active,2020-11-08
+CRM0038,Vega Nova SIA,LV10000038,LV,SME,Markus Tamm,Inactive,2022-08-27
+CRM0039,Nova Harbor UAB,LT10000039,LT,Large Corporate,Anna Saar,Active,2023-03-01
+CRM0040,Atlas Meridian OÜ,EE10000040,EE,SME,Juris Ozols,Inactive,2023-12-03
+CRM0041,Nova Nova SIA,LV10000041,LV,Mid-Market,Liis Kask,Active,2020-12-09
+CRM0042,NOVA NOVA UAB,LT10000042,LT,Large Corporate,Ieva Berzina,Active,2025-05-27
+CRM0043,Nordic Nova OÜ,EE10000043,EE,Large Corporate,Tomas Petrauskas,Active,2020-08-22
+CRM0044,Atlas Baltic SIA,LV10000044,LV,SME,Liis Kask,Active,2020-08-09
+CRM0045,Meridian Nova UAB,LT10000045,LT,Large Corporate,Anna Saar,Active,2025-03-17
+CRM0046,Meridian Nova OÜ,EE10000046,EE,Mid-Market,Ieva Berzina,Active,2023-10-19
+CRM0047,Nova Baltic SIA,LV10000047,LV,Mid-Market,Juris Ozols,Active,2025-04-12
+CRM0048,Atlas Vega UAB,LT10000048,LT,Large Corporate,Markus Tamm,Active,2020-06-04
+CRM0049,NORDIC BALTIC OU,EE10000049,EE,Large Corporate,Tomas Petrauskas,Active,2024-08-28
+CRM0050,Atlas Baltic SIA,LV10000050,LV,Large Corporate,Markus Tamm,Active,2020-07-27
+CRM0051,Meridian Amber UAB,LT10000051,LT,Large Corporate,Liis Kask,Active,2024-10-07
+CRM0052,Meridian Nova OÜ,EE10000052,EE,Large Corporate,Ieva Berzina,Active,2024-07-07
+CRM0053,Meridian Baltic SIA,LV10000053,LV,SME,Ieva Berzina,Active,2024-05-21
+CRM0054,Nordic Baltic UAB,LT10000054,LT,SME,Liis Kask,Inactive,2022-12-27
+CRM0055,Vega Meridian OÜ,EE10000055,EE,Mid-Market,Tomas Petrauskas,Active,2022-01-28
+CRM0056,NORDIC AMBER SIA,LV10000056,LV,SME,Ieva Berzina,Active,2023-08-19
+CRM0057,Harbor Meridian UAB,LT10000057,LT,Mid-Market,Anna Saar,Active,2024-10-05
+CRM0058,Meridian Amber OÜ,,EE,Mid-Market,Juris Ozols,Active,2020-08-04
+CRM0059,Nordic Nordic SIA,LV10000059,LV,Mid-Market,Liis Kask,Active,2023-07-25
+CRM0060,Nordic Meridian UAB,LT10000060,LT,Mid-Market,Tomas Petrauskas,Active,2020-11-09
+CRM0061,Amber Nordic OÜ,EE10000061,EE,Mid-Market,Markus Tamm,Inactive,2024-02-11
+CRM0062,Amber Baltic SIA,LV10000062,LV,Large Corporate,Tomas Petrauskas,Active,2021-07-07
+CRM0063,NOVA VEGA UAB,LT10000063,LT,Large Corporate,Ieva Berzina,Active,2024-05-05
+CRM0064,Nova Nordic OÜ,EE10000064,EE,Mid-Market,Juris Ozols,Active,2022-06-11
+CRM0065,Atlas Harbor SIA,LV10000065,LV,Large Corporate,Ieva Berzina,Active,2021-07-03
+CRM0066,Atlas Nova UAB,LT10000066,LT,Mid-Market,Markus Tamm,Active,2024-08-28
+CRM0067,Harbor Meridian OÜ,EE10000067,EE,SME,Liis Kask,Active,2024-12-10
+CRM0068,Baltic Nordic SIA,LV10000068,LV,Mid-Market,Markus Tamm,Active,2024-03-16
+CRM0069,Baltic Baltic UAB,LT10000069,LT,Mid-Market,Ieva Berzina,Active,2023-06-03
+CRM0070,HARBOR AMBER OU,EE10000070,EE,Large Corporate,Juris Ozols,Inactive,2021-11-19
+CRM0071,Atlas Harbor SIA,LV10000071,LV,SME,Juris Ozols,Active,2024-10-08
+CRM0072,Harbor Nordic UAB,LT10000072,LT,Mid-Market,Markus Tamm,Active,2022-09-25
+CRM0073,Harbor Baltic OÜ,EE10000073,EE,SME,Liis Kask,Inactive,2024-06-21
+CRM0074,Baltic Baltic SIA,LV10000074,LV,Mid-Market,Liis Kask,Active,2021-07-26
+CRM0075,Harbor Harbor UAB,LT10000075,LT,Large Corporate,Tomas Petrauskas,Active,2024-12-07
+CRM0076,Atlas Nova OÜ,EE10000076,EE,Mid-Market,Ieva Berzina,Active,2020-01-21
+CRM0077,MERIDIAN HARBOR SIA,LV10000077,LV,Large Corporate,Markus Tamm,Inactive,2020-06-24
+CRM0078,Vega Harbor UAB,LT10000078,LT,SME,Tomas Petrauskas,Active,2022-04-12
+CRM0079,Amber Harbor OÜ,EE10000079,EE,Mid-Market,Ieva Berzina,Active,2024-04-01
+CRM0080,Vega Nordic SIA,LV10000080,LV,SME,Tomas Petrauskas,Active,2022-09-02
+CRM0081,Amber Nordic UAB,LT10000081,LT,Large Corporate,Tomas Petrauskas,Active,2022-10-02
+CRM0082,Amber Vega OÜ,EE10000082,EE,Mid-Market,Anna Saar,Active,2020-07-09
+CRM0083,Atlas Nordic SIA,LV10000083,LV,Mid-Market,Markus Tamm,Inactive,2022-04-08
+CRM0084,NOVA BALTIC UAB,,LT,Large Corporate,Markus Tamm,Active,2021-09-19
+CRM0085,Vega Amber OÜ,EE10000085,EE,Large Corporate,Ieva Berzina,Inactive,2022-01-25
+CRM0086,Amber Vega SIA,LV10000086,LV,Mid-Market,Ieva Berzina,Active,2022-12-23
+CRM0087,Atlas Vega UAB,LT10000087,LT,Mid-Market,Juris Ozols,Active,2024-03-07
+CRM0088,Nova Harbor OÜ,EE10000088,EE,Large Corporate,Liis Kask,Active,2021-12-21
+CRM0089,Baltic Vega SIA,LV10000089,LV,Large Corporate,Juris Ozols,Active,2021-07-08
+CRM0090,Nova Nova UAB,LT10000090,LT,Mid-Market,Liis Kask,Active,2021-04-17
+CRM0091,ATLAS HARBOR OU,EE10000091,EE,SME,Tomas Petrauskas,Active,2021-01-29
+CRM0092,Nova Nordic SIA,LV10000092,LV,Mid-Market,Anna Saar,Active,2024-03-01
+CRM0093,Atlas Harbor UAB,LT10000093,LT,Large Corporate,Tomas Petrauskas,Active,2021-01-14
+CRM0094,Harbor Atlas OÜ,EE10000094,EE,SME,Markus Tamm,Active,2024-02-21
+CRM0095,Atlas Nordic SIA,LV10000095,LV,Mid-Market,Liis Kask,Active,2024-01-23
+CRM0096,Amber Harbor UAB,LT10000096,LT,Large Corporate,Ieva Berzina,Active,2023-05-07
+CRM0097,Vega Atlas OÜ,EE10000097,EE,Mid-Market,Anna Saar,Active,2024-09-01
+CRM0098,VEGA BALTIC SIA,LV10000098,LV,SME,Liis Kask,Active,2021-04-10
+CRM0099,Nova Harbor UAB,LT10000099,LT,Mid-Market,Markus Tamm,Active,2021-09-11
+CRM0100,Nordic Nova OÜ,EE10000100,EE,SME,Tomas Petrauskas,Active,2022-12-29
+CRMDUP01,Nova  Vega  SIA,LV10000005,LV,Large Corporate,Anna Saar,Active,2020-10-10
+CRMDUP02,Nordic  Nova  OÜ,EE10000019,EE,Mid-Market,Anna Saar,Active,2022-03-07
+CRMDUP03,Amber  Harbor  OÜ,EE10000037,EE,SME,Ieva Berzina,Active,2020-11-08
+CRMDUP04,NORDIC  AMBER  SIA,LV10000056,LV,SME,Ieva Berzina,Active,2023-08-19
+CRMDUP05,Vega  Nordic  SIA,LV10000080,LV,SME,Tomas Petrauskas,Active,2022-09-02

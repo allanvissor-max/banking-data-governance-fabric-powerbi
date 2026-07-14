@@ -1,0 +1,7 @@
+branch_id,country_code,city,branch_name,branch_status
+BR001,EE,Tallinn,Tallinn Main Branch,Active
+BR002,EE,Tartu,Tartu Main Branch,Active
+BR003,LV,Riga,Riga Main Branch,Active
+BR004,LV,Liepaja,Liepaja Main Branch,Active
+BR005,LT,Vilnius,Vilnius Main Branch,Active
+BR006,LT,Kaunas,Kaunas Main Branch,Active

@@ -1,0 +1,101 @@
+customer_id,customer_type,legal_entity_registry_code,customer_segment,country_code,customer_since_date,customer_status
+CUST0001,Private Individual,,Retail,LV,2025-01-15,Active
+CUST0002,Private Individual,,Premium,LT,2025-02-03,Active
+CUST0003,Private Individual,,Premium,EE,2021-09-05,Active
+CUST0004,Private Individual,,Retail,LV,2019-06-28,Active
+CUST0005,Private Individual,,Premium,LT,2023-04-11,Active
+CUST0006,Private Individual,,Retail,LV,2019-06-01,Active
+CUST0007,Private Individual,,Premium,EE,2023-12-09,Active
+CUST0008,Private Individual,,Premium,EE,2020-08-13,Active
+CUST0009,Private Individual,,Retail,EE,2024-04-07,Active
+CUST0010,Private Individual,,Premium,LV,2023-06-17,Active
+CUST0011,Private Individual,,Premium,LT,2024-12-25,Active
+CUST0012,Private Individual,,Premium,LT,2024-06-21,Active
+CUST0013,Private Individual,,Retail,LT,2019-10-08,Active
+CUST0014,Private Individual,,Premium,EE,2020-01-06,Active
+CUST0015,Private Individual,,Retail,LT,2020-02-16,Active
+CUST0016,Private Individual,,Premium,EE,2019-07-08,Active
+CUST0017,Private Individual,,Retail,LV,2023-01-08,Active
+CUST0018,Private Individual,,Retail,EE,2024-12-15,Active
+CUST0019,Private Individual,,Retail,EE,2020-12-18,Active
+CUST0020,Private Individual,,Premium,LT,2021-09-13,Active
+CUST0021,Private Individual,,Retail,EE,2024-03-03,Active
+CUST0022,Private Individual,,Premium,LV,2019-02-08,Active
+CUST0023,Private Individual,,Premium,LV,2025-02-16,Active
+CUST0024,Private Individual,,Premium,LV,2022-05-10,Active
+CUST0025,Private Individual,,Premium,LT,2021-10-21,Active
+CUST0026,Private Individual,,Premium,EE,2023-04-25,Active
+CUST0027,Private Individual,,Retail,EE,2023-04-12,Active
+CUST0028,Private Individual,,Premium,LT,2022-04-24,Active
+CUST0029,Private Individual,,Premium,LV,2019-02-03,Active
+CUST0030,Private Individual,,Retail,LT,2024-07-27,Active
+CUST0031,Private Individual,,Premium,EE,2022-12-14,Active
+CUST0032,Private Individual,,Retail,LT,2021-10-23,Active
+CUST0033,Private Individual,,Retail,LT,2020-02-02,Active
+CUST0034,Private Individual,,Retail,LV,2023-12-11,Active
+CUST0035,Private Individual,,Premium,LT,2020-06-22,Active
+CUST0036,Private Individual,,Premium,LV,2023-08-29,Active
+CUST0037,Private Individual,,Retail,LT,2023-02-07,Active
+CUST0038,Private Individual,,Premium,EE,2021-11-18,Active
+CUST0039,Private Individual,,Premium,LV,2022-10-19,Active
+CUST0040,Private Individual,,Premium,EE,2020-07-30,Active
+CUST0041,Private Individual,,Retail,LT,2023-06-16,Inactive
+CUST0042,Private Individual,,Premium,EE,2023-06-05,Active
+CUST0043,Private Individual,,Retail,LV,2023-02-18,Active
+CUST0044,Private Individual,,Premium,LT,2023-04-10,Active
+CUST0045,Private Individual,,Premium,EE,2021-08-15,Active
+CUST0046,Private Individual,,Premium,LT,2021-06-25,Active
+CUST0047,Private Individual,,Premium,LT,2022-05-22,Active
+CUST0048,Private Individual,,Retail,EE,2019-07-05,Inactive
+CUST0049,Private Individual,,Premium,LV,2020-04-20,Active
+CUST0050,Private Individual,,Retail,LV,2024-02-02,Active
+CUST0051,Private Individual,,Premium,LT,2020-09-24,Active
+CUST0052,Private Individual,,Retail,LV,2023-07-30,Inactive
+CUST0053,Private Individual,,Premium,EE,2023-02-26,Active
+CUST0054,Private Individual,,Premium,EE,2023-01-25,Active
+CUST0055,Private Individual,,Premium,LT,2023-01-09,Active
+CUST0056,Private Individual,,Premium,EE,2020-05-15,Inactive
+CUST0057,Private Individual,,Premium,EE,2021-05-18,Active
+CUST0058,Private Individual,,Retail,EE,2022-09-28,Active
+CUST0059,Private Individual,,Retail,LT,2021-04-20,Active
+CUST0060,Private Individual,,Retail,LT,2021-06-03,Active
+CUST0061,Private Individual,,Retail,LV,2020-08-27,Active
+CUST0062,Private Individual,,Retail,LV,2020-08-15,Inactive
+CUST0063,Private Individual,,Premium,EE,2020-03-26,Active
+CUST0064,Private Individual,,Retail,EE,2019-03-02,Active
+CUST0065,Private Individual,,Retail,LT,2022-08-19,Active
+CUST0066,Private Individual,,Premium,EE,2020-06-03,Active
+CUST0067,Private Individual,,Retail,LT,2019-09-18,Active
+CUST0068,Private Individual,,Premium,LT,2020-03-22,Active
+CUST0069,Private Individual,,Retail,LT,2019-06-27,Active
+CUST0070,Private Individual,,Premium,LV,2019-05-08,Active
+CUST0071,Legal Entity,EE10000001,Mid-Market,EE,2023-07-04,Active
+CUST0072,Legal Entity,LV10000002,SME,LV,2024-07-01,Active
+CUST0073,Legal Entity,LT10000003,Mid-Market,LT,2019-10-29,Active
+CUST0074,Legal Entity,EE10000004,Mid-Market,EE,2020-08-30,Active
+CUST0075,Legal Entity,LV10000005,Mid-Market,LV,2025-07-25,Active
+CUST0076,Legal Entity,LT10000006,Mid-Market,LT,2023-04-10,Inactive
+CUST0077,Legal Entity,EE10000007,Large Corporate,EE,2022-04-22,Active
+CUST0078,Legal Entity,LV10000008,Large Corporate,LV,2023-10-29,Active
+CUST0079,Legal Entity,LT10000009,Large Corporate,LT,2020-04-13,Active
+CUST0080,Legal Entity,EE10000010,Large Corporate,EE,2025-03-08,Active
+CUST0081,Legal Entity,LV10000011,SME,LV,2023-10-28,Active
+CUST0082,Legal Entity,LT10000012,SME,LT,2023-08-22,Active
+CUST0083,Legal Entity,EE10000013,Mid-Market,EE,2023-06-22,Active
+CUST0084,Legal Entity,LV10000014,SME,LV,2022-07-04,Active
+CUST0085,Legal Entity,LT10000015,Large Corporate,LT,2021-11-10,Active
+CUST0086,Legal Entity,EE10000016,SME,EE,2024-04-26,Active
+CUST0087,Legal Entity,LV10000017,SME,LV,2020-01-17,Active
+CUST0088,Legal Entity,LT10000018,Large Corporate,LT,2023-03-07,Active
+CUST0089,Legal Entity,EE10000019,Large Corporate,EE,2019-09-03,Active
+CUST0090,Legal Entity,LV10000020,Large Corporate,LV,2025-04-19,Active
+CUST0091,Legal Entity,LT10000021,SME,LT,2023-08-10,Active
+CUST0092,Legal Entity,EE10000022,Large Corporate,EE,2023-09-29,Active
+CUST0093,Legal Entity,LV10000023,Large Corporate,LV,2019-07-30,Inactive
+CUST0094,Legal Entity,LT10000024,Large Corporate,LT,2022-07-03,Active
+CUST0095,Legal Entity,EE10000025,Large Corporate,EE,2024-09-09,Active
+CUST0096,Legal Entity,LV10000026,Large Corporate,LV,2024-05-29,Active
+CUST0097,Legal Entity,LT10000027,SME,LT,2022-12-05,Active
+CUST0098,Legal Entity,EE10000028,Mid-Market,EE,2020-04-15,Active
+CUST0099,Legal Entity,LV10000029,Large Corporate,LV,2021-07-15,Active
+CUST0100,Legal Entity,LT10000030,Large Corporate,LT,2025-03-30,Active

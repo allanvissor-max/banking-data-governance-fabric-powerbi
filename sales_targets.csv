@@ -1,0 +1,433 @@
+target_month,product_type,sales_channel,target_count,target_amount_eur
+2025-01-01,Consumer Loan,Digital,25,331175
+2025-01-01,Consumer Loan,Branch,25,44191
+2025-01-01,Consumer Loan,Relationship Manager,11,140094
+2025-01-01,Mortgage,Digital,11,262020
+2025-01-01,Mortgage,Branch,12,232565
+2025-01-01,Mortgage,Relationship Manager,11,185431
+2025-01-01,Credit Card,Digital,18,222700
+2025-01-01,Credit Card,Branch,23,107422
+2025-01-01,Credit Card,Relationship Manager,16,158446
+2025-01-01,Current Account,Digital,22,69438
+2025-01-01,Current Account,Branch,9,69054
+2025-01-01,Current Account,Relationship Manager,14,258048
+2025-01-01,Savings Account,Digital,21,209326
+2025-01-01,Savings Account,Branch,12,331164
+2025-01-01,Savings Account,Relationship Manager,6,268926
+2025-01-01,Term Deposit,Digital,21,350648
+2025-01-01,Term Deposit,Branch,15,248400
+2025-01-01,Term Deposit,Relationship Manager,19,270131
+2025-01-01,Investment Product,Digital,18,239409
+2025-01-01,Investment Product,Branch,16,285855
+2025-01-01,Investment Product,Relationship Manager,15,168140
+2025-01-01,Business Loan,Digital,17,37959
+2025-01-01,Business Loan,Branch,10,256571
+2025-01-01,Business Loan,Relationship Manager,12,164263
+2025-02-01,Consumer Loan,Digital,25,64787
+2025-02-01,Consumer Loan,Branch,16,68211
+2025-02-01,Consumer Loan,Relationship Manager,14,288069
+2025-02-01,Mortgage,Digital,21,311603
+2025-02-01,Mortgage,Branch,25,65977
+2025-02-01,Mortgage,Relationship Manager,13,144402
+2025-02-01,Credit Card,Digital,8,87174
+2025-02-01,Credit Card,Branch,7,213867
+2025-02-01,Credit Card,Relationship Manager,6,311274
+2025-02-01,Current Account,Digital,11,199985
+2025-02-01,Current Account,Branch,11,378950
+2025-02-01,Current Account,Relationship Manager,15,156084
+2025-02-01,Savings Account,Digital,14,383371
+2025-02-01,Savings Account,Branch,13,124951
+2025-02-01,Savings Account,Relationship Manager,24,97281
+2025-02-01,Term Deposit,Digital,22,161910
+2025-02-01,Term Deposit,Branch,5,182010
+2025-02-01,Term Deposit,Relationship Manager,14,206735
+2025-02-01,Investment Product,Digital,17,237734
+2025-02-01,Investment Product,Branch,23,368570
+2025-02-01,Investment Product,Relationship Manager,5,272466
+2025-02-01,Business Loan,Digital,25,293774
+2025-02-01,Business Loan,Branch,9,233407
+2025-02-01,Business Loan,Relationship Manager,12,143974
+2025-03-01,Consumer Loan,Digital,11,273742
+2025-03-01,Consumer Loan,Branch,12,295441
+2025-03-01,Consumer Loan,Relationship Manager,23,314729
+2025-03-01,Mortgage,Digital,19,266907
+2025-03-01,Mortgage,Branch,15,70023
+2025-03-01,Mortgage,Relationship Manager,15,123485
+2025-03-01,Credit Card,Digital,18,390922
+2025-03-01,Credit Card,Branch,18,134882
+2025-03-01,Credit Card,Relationship Manager,19,260914
+2025-03-01,Current Account,Digital,22,40783
+2025-03-01,Current Account,Branch,16,97849
+2025-03-01,Current Account,Relationship Manager,23,92290
+2025-03-01,Savings Account,Digital,14,30075
+2025-03-01,Savings Account,Branch,20,370426
+2025-03-01,Savings Account,Relationship Manager,16,203164
+2025-03-01,Term Deposit,Digital,12,244753
+2025-03-01,Term Deposit,Branch,18,384537
+2025-03-01,Term Deposit,Relationship Manager,17,387030
+2025-03-01,Investment Product,Digital,22,182096
+2025-03-01,Investment Product,Branch,15,332733
+2025-03-01,Investment Product,Relationship Manager,5,322574
+2025-03-01,Business Loan,Digital,6,97946
+2025-03-01,Business Loan,Branch,9,198146
+2025-03-01,Business Loan,Relationship Manager,23,355217
+2025-04-01,Consumer Loan,Digital,24,343681
+2025-04-01,Consumer Loan,Branch,23,229936
+2025-04-01,Consumer Loan,Relationship Manager,17,132062
+2025-04-01,Mortgage,Digital,17,58401
+2025-04-01,Mortgage,Branch,22,227602
+2025-04-01,Mortgage,Relationship Manager,11,273920
+2025-04-01,Credit Card,Digital,8,197407
+2025-04-01,Credit Card,Branch,23,261734
+2025-04-01,Credit Card,Relationship Manager,25,184721
+2025-04-01,Current Account,Digital,7,114875
+2025-04-01,Current Account,Branch,8,378834
+2025-04-01,Current Account,Relationship Manager,22,118132
+2025-04-01,Savings Account,Digital,6,386247
+2025-04-01,Savings Account,Branch,24,281174
+2025-04-01,Savings Account,Relationship Manager,5,122880
+2025-04-01,Term Deposit,Digital,11,61433
+2025-04-01,Term Deposit,Branch,17,173802
+2025-04-01,Term Deposit,Relationship Manager,11,147179
+2025-04-01,Investment Product,Digital,14,370804
+2025-04-01,Investment Product,Branch,21,61689
+2025-04-01,Investment Product,Relationship Manager,19,55122
+2025-04-01,Business Loan,Digital,16,296859
+2025-04-01,Business Loan,Branch,5,115086
+2025-04-01,Business Loan,Relationship Manager,15,240409
+2025-05-01,Consumer Loan,Digital,17,107331
+2025-05-01,Consumer Loan,Branch,8,92705
+2025-05-01,Consumer Loan,Relationship Manager,22,244369
+2025-05-01,Mortgage,Digital,20,61051
+2025-05-01,Mortgage,Branch,17,133254
+2025-05-01,Mortgage,Relationship Manager,9,132833
+2025-05-01,Credit Card,Digital,14,251597
+2025-05-01,Credit Card,Branch,20,108247
+2025-05-01,Credit Card,Relationship Manager,24,326513
+2025-05-01,Current Account,Digital,14,333014
+2025-05-01,Current Account,Branch,11,288441
+2025-05-01,Current Account,Relationship Manager,19,169410
+2025-05-01,Savings Account,Digital,11,28902
+2025-05-01,Savings Account,Branch,9,258691
+2025-05-01,Savings Account,Relationship Manager,7,234315
+2025-05-01,Term Deposit,Digital,24,154415
+2025-05-01,Term Deposit,Branch,21,197433
+2025-05-01,Term Deposit,Relationship Manager,23,282403
+2025-05-01,Investment Product,Digital,19,267585
+2025-05-01,Investment Product,Branch,23,45491
+2025-05-01,Investment Product,Relationship Manager,7,175948
+2025-05-01,Business Loan,Digital,25,264236
+2025-05-01,Business Loan,Branch,16,392167
+2025-05-01,Business Loan,Relationship Manager,14,230043
+2025-06-01,Consumer Loan,Digital,24,116816
+2025-06-01,Consumer Loan,Branch,18,155618
+2025-06-01,Consumer Loan,Relationship Manager,10,348871
+2025-06-01,Mortgage,Digital,18,265033
+2025-06-01,Mortgage,Branch,17,370547
+2025-06-01,Mortgage,Relationship Manager,10,391226
+2025-06-01,Credit Card,Digital,23,75087
+2025-06-01,Credit Card,Branch,17,391291
+2025-06-01,Credit Card,Relationship Manager,6,150669
+2025-06-01,Current Account,Digital,10,168537
+2025-06-01,Current Account,Branch,25,306929
+2025-06-01,Current Account,Relationship Manager,14,374520
+2025-06-01,Savings Account,Digital,7,390976
+2025-06-01,Savings Account,Branch,11,283729
+2025-06-01,Savings Account,Relationship Manager,18,314838
+2025-06-01,Term Deposit,Digital,8,218321
+2025-06-01,Term Deposit,Branch,7,80167
+2025-06-01,Term Deposit,Relationship Manager,21,195924
+2025-06-01,Investment Product,Digital,18,261420
+2025-06-01,Investment Product,Branch,10,157522
+2025-06-01,Investment Product,Relationship Manager,11,290323
+2025-06-01,Business Loan,Digital,6,267308
+2025-06-01,Business Loan,Branch,5,63375
+2025-06-01,Business Loan,Relationship Manager,25,389110
+2025-07-01,Consumer Loan,Digital,19,224835
+2025-07-01,Consumer Loan,Branch,15,234370
+2025-07-01,Consumer Loan,Relationship Manager,11,232971
+2025-07-01,Mortgage,Digital,6,30629
+2025-07-01,Mortgage,Branch,13,85126
+2025-07-01,Mortgage,Relationship Manager,9,196500
+2025-07-01,Credit Card,Digital,19,279153
+2025-07-01,Credit Card,Branch,19,60775
+2025-07-01,Credit Card,Relationship Manager,7,312534
+2025-07-01,Current Account,Digital,12,399122
+2025-07-01,Current Account,Branch,19,98534
+2025-07-01,Current Account,Relationship Manager,20,171350
+2025-07-01,Savings Account,Digital,10,114437
+2025-07-01,Savings Account,Branch,5,343236
+2025-07-01,Savings Account,Relationship Manager,8,117923
+2025-07-01,Term Deposit,Digital,14,90091
+2025-07-01,Term Deposit,Branch,22,229917
+2025-07-01,Term Deposit,Relationship Manager,10,65677
+2025-07-01,Investment Product,Digital,5,380143
+2025-07-01,Investment Product,Branch,13,105476
+2025-07-01,Investment Product,Relationship Manager,19,212740
+2025-07-01,Business Loan,Digital,10,138598
+2025-07-01,Business Loan,Branch,6,378917
+2025-07-01,Business Loan,Relationship Manager,22,138333
+2025-08-01,Consumer Loan,Digital,19,390293
+2025-08-01,Consumer Loan,Branch,6,357812
+2025-08-01,Consumer Loan,Relationship Manager,21,361074
+2025-08-01,Mortgage,Digital,8,229796
+2025-08-01,Mortgage,Branch,14,257776
+2025-08-01,Mortgage,Relationship Manager,6,338631
+2025-08-01,Credit Card,Digital,5,50514
+2025-08-01,Credit Card,Branch,17,130768
+2025-08-01,Credit Card,Relationship Manager,12,221421
+2025-08-01,Current Account,Digital,12,129850
+2025-08-01,Current Account,Branch,7,33408
+2025-08-01,Current Account,Relationship Manager,18,39650
+2025-08-01,Savings Account,Digital,5,201746
+2025-08-01,Savings Account,Branch,11,381494
+2025-08-01,Savings Account,Relationship Manager,7,140641
+2025-08-01,Term Deposit,Digital,8,373184
+2025-08-01,Term Deposit,Branch,10,112580
+2025-08-01,Term Deposit,Relationship Manager,6,242936
+2025-08-01,Investment Product,Digital,21,81457
+2025-08-01,Investment Product,Branch,15,194177
+2025-08-01,Investment Product,Relationship Manager,22,353616
+2025-08-01,Business Loan,Digital,11,352508
+2025-08-01,Business Loan,Branch,11,309008
+2025-08-01,Business Loan,Relationship Manager,17,249332
+2025-09-01,Consumer Loan,Digital,8,146848
+2025-09-01,Consumer Loan,Branch,11,80514
+2025-09-01,Consumer Loan,Relationship Manager,16,194537
+2025-09-01,Mortgage,Digital,10,32861
+2025-09-01,Mortgage,Branch,17,367880
+2025-09-01,Mortgage,Relationship Manager,15,31281
+2025-09-01,Credit Card,Digital,17,136551
+2025-09-01,Credit Card,Branch,19,140393
+2025-09-01,Credit Card,Relationship Manager,7,369961
+2025-09-01,Current Account,Digital,13,365758
+2025-09-01,Current Account,Branch,24,218451
+2025-09-01,Current Account,Relationship Manager,6,60300
+2025-09-01,Savings Account,Digital,11,240533
+2025-09-01,Savings Account,Branch,14,338979
+2025-09-01,Savings Account,Relationship Manager,20,78379
+2025-09-01,Term Deposit,Digital,22,323427
+2025-09-01,Term Deposit,Branch,10,157089
+2025-09-01,Term Deposit,Relationship Manager,8,339503
+2025-09-01,Investment Product,Digital,15,355759
+2025-09-01,Investment Product,Branch,17,380415
+2025-09-01,Investment Product,Relationship Manager,9,199088
+2025-09-01,Business Loan,Digital,10,358108
+2025-09-01,Business Loan,Branch,15,374370
+2025-09-01,Business Loan,Relationship Manager,20,60396
+2025-10-01,Consumer Loan,Digital,15,34253
+2025-10-01,Consumer Loan,Branch,24,331727
+2025-10-01,Consumer Loan,Relationship Manager,19,225472
+2025-10-01,Mortgage,Digital,21,360854
+2025-10-01,Mortgage,Branch,12,288937
+2025-10-01,Mortgage,Relationship Manager,23,394428
+2025-10-01,Credit Card,Digital,5,146952
+2025-10-01,Credit Card,Branch,5,348144
+2025-10-01,Credit Card,Relationship Manager,8,186925
+2025-10-01,Current Account,Digital,12,249656
+2025-10-01,Current Account,Branch,12,349935
+2025-10-01,Current Account,Relationship Manager,7,56416
+2025-10-01,Savings Account,Digital,9,221358
+2025-10-01,Savings Account,Branch,20,180511
+2025-10-01,Savings Account,Relationship Manager,11,104519
+2025-10-01,Term Deposit,Digital,17,132156
+2025-10-01,Term Deposit,Branch,25,44874
+2025-10-01,Term Deposit,Relationship Manager,12,338563
+2025-10-01,Investment Product,Digital,19,197328
+2025-10-01,Investment Product,Branch,9,170818
+2025-10-01,Investment Product,Relationship Manager,15,362432
+2025-10-01,Business Loan,Digital,6,298087
+2025-10-01,Business Loan,Branch,18,364762
+2025-10-01,Business Loan,Relationship Manager,14,37422
+2025-11-01,Consumer Loan,Digital,12,198681
+2025-11-01,Consumer Loan,Branch,15,152008
+2025-11-01,Consumer Loan,Relationship Manager,11,307754
+2025-11-01,Mortgage,Digital,6,373654
+2025-11-01,Mortgage,Branch,12,385369
+2025-11-01,Mortgage,Relationship Manager,12,343800
+2025-11-01,Credit Card,Digital,17,298401
+2025-11-01,Credit Card,Branch,15,121230
+2025-11-01,Credit Card,Relationship Manager,19,355187
+2025-11-01,Current Account,Digital,5,58877
+2025-11-01,Current Account,Branch,20,61692
+2025-11-01,Current Account,Relationship Manager,11,52319
+2025-11-01,Savings Account,Digital,25,99203
+2025-11-01,Savings Account,Branch,11,90830
+2025-11-01,Savings Account,Relationship Manager,7,116056
+2025-11-01,Term Deposit,Digital,23,312753
+2025-11-01,Term Deposit,Branch,11,148894
+2025-11-01,Term Deposit,Relationship Manager,21,65980
+2025-11-01,Investment Product,Digital,18,269881
+2025-11-01,Investment Product,Branch,14,111066
+2025-11-01,Investment Product,Relationship Manager,11,153411
+2025-11-01,Business Loan,Digital,18,117503
+2025-11-01,Business Loan,Branch,24,155531
+2025-11-01,Business Loan,Relationship Manager,14,174607
+2025-12-01,Consumer Loan,Digital,23,260023
+2025-12-01,Consumer Loan,Branch,25,130592
+2025-12-01,Consumer Loan,Relationship Manager,13,277272
+2025-12-01,Mortgage,Digital,7,213524
+2025-12-01,Mortgage,Branch,17,223032
+2025-12-01,Mortgage,Relationship Manager,10,271789
+2025-12-01,Credit Card,Digital,19,246615
+2025-12-01,Credit Card,Branch,21,344498
+2025-12-01,Credit Card,Relationship Manager,18,106725
+2025-12-01,Current Account,Digital,20,35386
+2025-12-01,Current Account,Branch,17,249079
+2025-12-01,Current Account,Relationship Manager,7,182407
+2025-12-01,Savings Account,Digital,24,306646
+2025-12-01,Savings Account,Branch,9,314853
+2025-12-01,Savings Account,Relationship Manager,10,159894
+2025-12-01,Term Deposit,Digital,17,268086
+2025-12-01,Term Deposit,Branch,14,262818
+2025-12-01,Term Deposit,Relationship Manager,14,221685
+2025-12-01,Investment Product,Digital,22,342731
+2025-12-01,Investment Product,Branch,20,62717
+2025-12-01,Investment Product,Relationship Manager,15,96647
+2025-12-01,Business Loan,Digital,20,127611
+2025-12-01,Business Loan,Branch,9,124418
+2025-12-01,Business Loan,Relationship Manager,5,31728
+2026-01-01,Consumer Loan,Digital,21,221218
+2026-01-01,Consumer Loan,Branch,20,237103
+2026-01-01,Consumer Loan,Relationship Manager,18,231910
+2026-01-01,Mortgage,Digital,16,226346
+2026-01-01,Mortgage,Branch,20,186381
+2026-01-01,Mortgage,Relationship Manager,25,333443
+2026-01-01,Credit Card,Digital,7,239322
+2026-01-01,Credit Card,Branch,6,90262
+2026-01-01,Credit Card,Relationship Manager,17,321541
+2026-01-01,Current Account,Digital,10,126831
+2026-01-01,Current Account,Branch,18,158828
+2026-01-01,Current Account,Relationship Manager,16,292181
+2026-01-01,Savings Account,Digital,20,357912
+2026-01-01,Savings Account,Branch,16,390143
+2026-01-01,Savings Account,Relationship Manager,6,366262
+2026-01-01,Term Deposit,Digital,17,247319
+2026-01-01,Term Deposit,Branch,12,152062
+2026-01-01,Term Deposit,Relationship Manager,20,43091
+2026-01-01,Investment Product,Digital,16,355800
+2026-01-01,Investment Product,Branch,5,390675
+2026-01-01,Investment Product,Relationship Manager,25,102533
+2026-01-01,Business Loan,Digital,13,342422
+2026-01-01,Business Loan,Branch,19,382074
+2026-01-01,Business Loan,Relationship Manager,9,158320
+2026-02-01,Consumer Loan,Digital,12,340699
+2026-02-01,Consumer Loan,Branch,23,372395
+2026-02-01,Consumer Loan,Relationship Manager,10,31468
+2026-02-01,Mortgage,Digital,8,73394
+2026-02-01,Mortgage,Branch,25,398088
+2026-02-01,Mortgage,Relationship Manager,17,233491
+2026-02-01,Credit Card,Digital,23,67125
+2026-02-01,Credit Card,Branch,21,123997
+2026-02-01,Credit Card,Relationship Manager,18,111939
+2026-02-01,Current Account,Digital,18,157577
+2026-02-01,Current Account,Branch,14,287483
+2026-02-01,Current Account,Relationship Manager,22,370236
+2026-02-01,Savings Account,Digital,17,332274
+2026-02-01,Savings Account,Branch,14,240801
+2026-02-01,Savings Account,Relationship Manager,7,82291
+2026-02-01,Term Deposit,Digital,25,325213
+2026-02-01,Term Deposit,Branch,16,99822
+2026-02-01,Term Deposit,Relationship Manager,13,134851
+2026-02-01,Investment Product,Digital,17,391482
+2026-02-01,Investment Product,Branch,14,28366
+2026-02-01,Investment Product,Relationship Manager,10,282804
+2026-02-01,Business Loan,Digital,5,75788
+2026-02-01,Business Loan,Branch,7,390070
+2026-02-01,Business Loan,Relationship Manager,18,300231
+2026-03-01,Consumer Loan,Digital,18,368157
+2026-03-01,Consumer Loan,Branch,14,250941
+2026-03-01,Consumer Loan,Relationship Manager,10,117485
+2026-03-01,Mortgage,Digital,16,122727
+2026-03-01,Mortgage,Branch,9,128819
+2026-03-01,Mortgage,Relationship Manager,20,120412
+2026-03-01,Credit Card,Digital,21,82796
+2026-03-01,Credit Card,Branch,19,322319
+2026-03-01,Credit Card,Relationship Manager,11,122327
+2026-03-01,Current Account,Digital,11,55923
+2026-03-01,Current Account,Branch,10,125602
+2026-03-01,Current Account,Relationship Manager,13,239324
+2026-03-01,Savings Account,Digital,19,353643
+2026-03-01,Savings Account,Branch,24,82249
+2026-03-01,Savings Account,Relationship Manager,25,112097
+2026-03-01,Term Deposit,Digital,7,178682
+2026-03-01,Term Deposit,Branch,7,223038
+2026-03-01,Term Deposit,Relationship Manager,8,170103
+2026-03-01,Investment Product,Digital,7,204386
+2026-03-01,Investment Product,Branch,5,332047
+2026-03-01,Investment Product,Relationship Manager,12,275555
+2026-03-01,Business Loan,Digital,20,377743
+2026-03-01,Business Loan,Branch,8,29984
+2026-03-01,Business Loan,Relationship Manager,6,164502
+2026-04-01,Consumer Loan,Digital,5,373820
+2026-04-01,Consumer Loan,Branch,23,46946
+2026-04-01,Consumer Loan,Relationship Manager,8,135660
+2026-04-01,Mortgage,Digital,21,28807
+2026-04-01,Mortgage,Branch,17,341137
+2026-04-01,Mortgage,Relationship Manager,21,164374
+2026-04-01,Credit Card,Digital,20,273109
+2026-04-01,Credit Card,Branch,15,341864
+2026-04-01,Credit Card,Relationship Manager,18,201449
+2026-04-01,Current Account,Digital,16,382491
+2026-04-01,Current Account,Branch,15,190268
+2026-04-01,Current Account,Relationship Manager,12,214378
+2026-04-01,Savings Account,Digital,17,223409
+2026-04-01,Savings Account,Branch,24,55011
+2026-04-01,Savings Account,Relationship Manager,16,198148
+2026-04-01,Term Deposit,Digital,8,26617
+2026-04-01,Term Deposit,Branch,19,391114
+2026-04-01,Term Deposit,Relationship Manager,17,97804
+2026-04-01,Investment Product,Digital,5,340573
+2026-04-01,Investment Product,Branch,8,303202
+2026-04-01,Investment Product,Relationship Manager,13,391616
+2026-04-01,Business Loan,Digital,12,218163
+2026-04-01,Business Loan,Branch,19,349194
+2026-04-01,Business Loan,Relationship Manager,20,294963
+2026-05-01,Consumer Loan,Digital,18,371149
+2026-05-01,Consumer Loan,Branch,11,26640
+2026-05-01,Consumer Loan,Relationship Manager,25,193916
+2026-05-01,Mortgage,Digital,5,357281
+2026-05-01,Mortgage,Branch,16,48988
+2026-05-01,Mortgage,Relationship Manager,15,380430
+2026-05-01,Credit Card,Digital,19,147451
+2026-05-01,Credit Card,Branch,24,279036
+2026-05-01,Credit Card,Relationship Manager,17,346174
+2026-05-01,Current Account,Digital,7,207627
+2026-05-01,Current Account,Branch,18,274625
+2026-05-01,Current Account,Relationship Manager,8,226776
+2026-05-01,Savings Account,Digital,14,343333
+2026-05-01,Savings Account,Branch,11,398262
+2026-05-01,Savings Account,Relationship Manager,9,297658
+2026-05-01,Term Deposit,Digital,23,289574
+2026-05-01,Term Deposit,Branch,6,92036
+2026-05-01,Term Deposit,Relationship Manager,20,70660
+2026-05-01,Investment Product,Digital,14,377878
+2026-05-01,Investment Product,Branch,22,269739
+2026-05-01,Investment Product,Relationship Manager,10,258982
+2026-05-01,Business Loan,Digital,8,277795
+2026-05-01,Business Loan,Branch,22,151301
+2026-05-01,Business Loan,Relationship Manager,12,135960
+2026-06-01,Consumer Loan,Digital,10,370896
+2026-06-01,Consumer Loan,Branch,7,80296
+2026-06-01,Consumer Loan,Relationship Manager,18,40320
+2026-06-01,Mortgage,Digital,10,196180
+2026-06-01,Mortgage,Branch,17,171988
+2026-06-01,Mortgage,Relationship Manager,12,160071
+2026-06-01,Credit Card,Digital,20,376588
+2026-06-01,Credit Card,Branch,8,373901
+2026-06-01,Credit Card,Relationship Manager,9,305254
+2026-06-01,Current Account,Digital,25,282928
+2026-06-01,Current Account,Branch,7,387694
+2026-06-01,Current Account,Relationship Manager,15,142338
+2026-06-01,Savings Account,Digital,23,339929
+2026-06-01,Savings Account,Branch,7,362634
+2026-06-01,Savings Account,Relationship Manager,15,222661
+2026-06-01,Term Deposit,Digital,17,367842
+2026-06-01,Term Deposit,Branch,25,319597
+2026-06-01,Term Deposit,Relationship Manager,18,147351
+2026-06-01,Investment Product,Digital,12,160839
+2026-06-01,Investment Product,Branch,8,177555
+2026-06-01,Investment Product,Relationship Manager,7,83396
+2026-06-01,Business Loan,Digital,7,203382
+2026-06-01,Business Loan,Branch,23,123648
+2026-06-01,Business Loan,Relationship Manager,8,325332

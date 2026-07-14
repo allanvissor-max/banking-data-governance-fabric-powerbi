@@ -1,4 +1,4 @@
-# Banking Data Governance and Sales Reporting in Microsoft Fabric
+# Banking Data Governance and Sales Reporting in Microsoft Fabric and Power BI
 
 ## Overview
 

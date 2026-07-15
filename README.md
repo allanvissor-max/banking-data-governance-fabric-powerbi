@@ -63,6 +63,10 @@ Microsoft Fabric Lakehouse
       |
       v
 Power BI semantic models and reports
+      |
+      v
+Microsoft Fabric App: Data Quality Management Portal 
+
 ```
 
 The Fabric pipeline executes the notebooks in sequence:
@@ -91,6 +95,7 @@ The Fabric pipeline executes the notebooks in sequence:
 - PySpark
 - Delta tables
 - Fabric Data Pipeline
+- Fabric Apps
 - Power BI
 - DAX
 - GitHub
@@ -426,7 +431,10 @@ The report shows:
 - Passed versus failed rules
 - Detailed rule results table
 
+<img width="1896" height="1068" alt="dashboard dq" src="https://github.com/user-attachments/assets/35cc3ad8-d22d-4375-ae0a-efb98a5c9ec2" />
 ---
+
+
 
 ## 2. Sales Overview
 
@@ -456,6 +464,8 @@ The report presents governed management KPIs after the approved sales rules have
 - Products sold by sales channel
 - Actual sales versus target
 - Product and channel slicers
+
+<img width="1904" height="1064" alt="dashb sales 1" src="https://github.com/user-attachments/assets/b794e0d1-9e61-438b-8c17-a24e69e92733" />
 
 ---
 
@@ -648,6 +658,7 @@ Expected controlled results:
 ## Planned Improvements
 
 - Microsoft Purview business glossary
+- Improve Fabric app with sales data
 - Data domain and data product definitions
 - Critical Data Element classification
 - Automated lineage

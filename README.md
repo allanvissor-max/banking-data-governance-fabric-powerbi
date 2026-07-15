@@ -659,7 +659,6 @@ Expected controlled results:
 ## Planned Improvements
 
 - Issue management functionality
-- Microsoft Purview business glossary
 - Improve Fabric app with sales data
 - React Three 3D data lineage
 - Data domain and data product definitions

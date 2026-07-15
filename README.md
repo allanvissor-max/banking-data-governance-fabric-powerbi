@@ -505,7 +505,11 @@ is_governed_sale = FALSE
 <img width="1898" height="1062" alt="dashb sales 2" src="https://github.com/user-attachments/assets/13864dc3-3fae-4e03-9931-3fe2a501f236" />
 
 ---
+## Miscrosoft Fabric App
 
+<img width="2810" height="1448" alt="image" src="https://github.com/user-attachments/assets/26239531-ae67-4208-80c0-dbfc9d65f155" />
+
+---
 ## Business Impact
 
 The project demonstrates how data quality defects can affect business reporting.

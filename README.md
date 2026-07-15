@@ -502,6 +502,7 @@ The detail table is filtered to:
 ```text
 is_governed_sale = FALSE
 ```
+<img width="1898" height="1062" alt="dashb sales 2" src="https://github.com/user-attachments/assets/13864dc3-3fae-4e03-9931-3fe2a501f236" />
 
 ---
 

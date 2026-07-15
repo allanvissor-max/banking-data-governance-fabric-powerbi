@@ -658,6 +658,7 @@ Expected controlled results:
 
 ## Planned Improvements
 
+- Issue management functionality
 - Microsoft Purview business glossary
 - Improve Fabric app with sales data
 - React Three 3D data lineage
@@ -670,6 +671,7 @@ Expected controlled results:
 - Root-cause and remediation workflow
 - CI/CD across development, test, and production workspaces
 - Automated reconciliation tests between the sales fact and KPI mart
+- Microsoft Purview business glossary
 
 ---
 

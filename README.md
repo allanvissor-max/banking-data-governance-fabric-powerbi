@@ -660,6 +660,7 @@ Expected controlled results:
 
 - Microsoft Purview business glossary
 - Improve Fabric app with sales data
+- React Three 3D data lineage
 - Data domain and data product definitions
 - Critical Data Element classification
 - Automated lineage

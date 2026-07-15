@@ -508,6 +508,7 @@ is_governed_sale = FALSE
 ## Miscrosoft Fabric App
 
 <img width="2810" height="1448" alt="image" src="https://github.com/user-attachments/assets/26239531-ae67-4208-80c0-dbfc9d65f155" />
+<img width="2812" height="1442" alt="fabric screenshit lineage" src="https://github.com/user-attachments/assets/f97fbad4-b8b8-4e8e-bb95-f30ffaa549e0" />
 
 ---
 ## Business Impact

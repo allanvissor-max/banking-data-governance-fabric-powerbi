@@ -9,7 +9,7 @@ The solution combines two related business domains:
 1. **Legal Entity Data Governance**
 2. **Banking Sales Reporting Governance**
 
-The project shows how raw source data is standardized, validated, deduplicated, consolidated into trusted Gold-layer datasets, and exposed through Power BI reports for both governance teams and business users.
+The project shows how raw source data is standardized, validated, deduplicated, consolidated into trusted Gold-layer datasets, exposed through Power BI reports and Fabric App for both governance teams and business users.
 
 ---
 

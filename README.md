@@ -19,13 +19,13 @@ business-requirements.md
 
 ## Business Requirements
 
-## 1. Purpose
+### 1. Purpose
 
 The solution shall provide a governed and traceable view of legal-entity master data, banking product sales, data-quality results, and management KPIs in Microsoft Fabric and Power BI.
 
 The objective is to ensure that business users can distinguish trusted reporting data from excluded or defective source records and can understand how data-quality issues affect customer, KYC, and sales reporting.
 
-## 2. Business Objectives
+### 2. Business Objectives
 
 The solution shall:
 

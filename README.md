@@ -12,6 +12,31 @@ The solution combines two related business domains:
 The project shows how raw source data is standardized, validated, deduplicated, consolidated into trusted Gold-layer datasets, exposed through Power BI reports and Fabric App for both governance teams and business users.
 
 ---
+Library
+/
+business-requirements.md
+
+
+## Business Requirements
+
+## 1. Purpose
+
+The solution shall provide a governed and traceable view of legal-entity master data, banking product sales, data-quality results, and management KPIs in Microsoft Fabric and Power BI.
+
+The objective is to ensure that business users can distinguish trusted reporting data from excluded or defective source records and can understand how data-quality issues affect customer, KYC, and sales reporting.
+
+## 2. Business Objectives
+
+The solution shall:
+
+1. create one trusted Golden Record for each eligible legal entity;
+2. identify and measure material data-quality failures across legal-entity and sales data;
+3. apply an approved business definition of a governed sale;
+4. prevent duplicate or invalid contract records from distorting management KPIs;
+5. provide traceability from source data through Bronze, Silver, Gold, the semantic model, Power BI, and the Fabric App;
+6. support data stewards, data owners, governance teams, analysts, and sales-management users with role-appropriate views;
+7. preserve excluded and failed records for investigation rather than silently deleting them.
+---
 
 ## Business Problem
 
@@ -92,6 +117,7 @@ The Fabric pipeline executes the notebooks in sequence:
 
 - Microsoft Fabric
 - Fabric Lakehouse
+- SQL
 - PySpark
 - Delta tables
 - Fabric Data Pipeline
@@ -421,7 +447,6 @@ The report shows:
 - Total Failed Records
 - Critical Failed Rules
 - DQ Pass Rate
-- Average Failed Records
 
 ### Main Visuals
 
@@ -506,9 +531,38 @@ is_governed_sale = FALSE
 
 ---
 ## Miscrosoft Fabric App
+The project also includes a custom Microsoft Fabric App built with Rayfin framework. The app connects directly to the shared Fabric semantic model and provides live data quality monitoring, issue analysis, rule exploration, Golden Record review, business glossary, and documented lineage in one operational interface.
+
+Unlike a traditional Power BI report, the Fabric App is designed as an interactive governance portal where users can search, filter, inspect details, and navigate between related data governance views.
 
 <img width="2810" height="1448" alt="image" src="https://github.com/user-attachments/assets/26239531-ae67-4208-80c0-dbfc9d65f155" />
 <img width="2812" height="1442" alt="fabric screenshit lineage" src="https://github.com/user-attachments/assets/f97fbad4-b8b8-4e8e-bb95-f30ffaa549e0" />
+
+---
+## Business Glossary
+
+| Term | Definition |
+|---|---|
+| **Legal Entity** | A legally registered organisation identified by a national registry code. |
+| **Registry Code** | The official national identifier assigned to a legal entity and the primary matching key used in this project. |
+| **Golden Record** | The single trusted representation of a legal entity created according to approved source-authority and survivorship rules. |
+| **Authoritative Source** | The approved source whose value takes precedence for a defined data attribute. |
+| **Survivorship Rule** | A deterministic rule that selects which source record or attribute value is retained when multiple candidates exist. |
+| **Governed Sale** | A unique active product contract with an activation date and an approved product type. |
+| **Excluded Contract** | A contract retained for analysis but excluded from governed sales KPIs because it does not meet the approved sale definition. |
+| **Data Quality Dimension** | A category describing the nature of a data quality control, such as Completeness, Uniqueness, Validity, Consistency, or Referential Integrity. |
+| **Critical Data Element** | A data attribute whose failure can materially affect identification, compliance, reporting, or business decisions. |
+| **Data Owner** | The business role accountable for a data domain, its definitions, risks, and quality expectations. |
+| **Data Steward** | The role responsible for day-to-day metadata management, data quality monitoring, issue investigation, and remediation coordination. |
+| **Failed Rule** | A data quality rule whose execution result has the status `Failed`. |
+| **Critical Failed Rule** | A failed data quality rule with severity `Critical`. |
+| **Total Failed Records** | The sum of `failed_record_count` across failed data quality rules. |
+| **Data Domain** | The business area to which a data quality rule or governed data asset belongs. |
+| **Severity** | The business impact level assigned to a data quality rule, such as Critical, High, Medium, or Low. |
+| **CRM Coverage** | Indicates whether a legal entity has a corresponding CRM source record. |
+| **KYC Coverage** | Indicates whether a legal entity has a corresponding KYC source record. |
+| **Semantic Model** | The shared analytical model containing tables, relationships, and measures used by Power BI and the Fabric App. |
+| **Documented Lineage** | A curated representation of data flow and dependencies based on the implemented project architecture. |
 
 ---
 ## Business Impact
